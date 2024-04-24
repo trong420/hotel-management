@@ -30,6 +30,7 @@ namespace winform1
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Login));
             textBox1 = new TextBox();
             textBox2 = new TextBox();
             label1 = new Label();
@@ -159,8 +160,9 @@ namespace winform1
             ClientSize = new Size(784, 361);
             Controls.Add(panel1);
             ForeColor = SystemColors.ButtonHighlight;
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Login";
-            Text = "Form1";
+            Text = "Login";
             TransparencyKey = Color.White;
             panel1.ResumeLayout(false);
             panel1.PerformLayout();

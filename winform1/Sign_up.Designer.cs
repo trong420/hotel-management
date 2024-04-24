@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Sign_up));
             panel1 = new Panel();
             label4 = new Label();
             link_signup = new LinkLabel();
@@ -154,8 +155,9 @@
             BackColor = SystemColors.GradientActiveCaption;
             ClientSize = new Size(784, 361);
             Controls.Add(panel1);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Sign_up";
-            Text = "Form2";
+            Text = "Sign up";
             panel1.ResumeLayout(false);
             panel1.PerformLayout();
             ResumeLayout(false);

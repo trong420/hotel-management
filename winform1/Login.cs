@@ -36,7 +36,7 @@ namespace winform1
                     this.Hide();
 
                     // Create an instance of Form2
-                    Home form2 = new Home();
+                    Rooms form2 = new Rooms();
 
                     // Show Form2
                     form2.Show();

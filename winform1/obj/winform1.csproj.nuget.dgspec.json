@@ -45,9 +45,25 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "dependencies": {
+            "Bunifu.UI.WinForms": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "KendoUICore": {
+              "target": "Package",
+              "version": "[2024.1.319, )"
+            },
+            "Radzen.Blazor": {
+              "target": "Package",
+              "version": "[4.29.9, )"
+            },
             "System.Data.SqlClient": {
               "target": "Package",
               "version": "[4.8.6, )"
+            },
+            "Velos.ImGui": {
+              "target": "Package",
+              "version": "[0.0.19, )"
             }
           },
           "imports": [
