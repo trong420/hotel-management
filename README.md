@@ -1,25 +1,40 @@
 
 <div align="center">
 
-<h1>Winform App</h1>
+<h1>Winform (Hotel Management System)</h1>
 </div>
 
 
 **Login** 
-![image](https://github.com/trong420/hotel-management/assets/90754954/b65bcc61-f7a6-414d-8451-91a6d891c82a)
+
+
+![image](https://github.com/trong420/hotel-management/assets/90754954/0d05593b-a615-4754-b42c-1fc06f356be3)
 
 
 **Sign-up**
-![image](https://github.com/trong420/hotel-management/assets/90754954/7499ab39-c427-41c5-b987-ea1c70736b7e)
+
+
+![image](https://github.com/trong420/hotel-management/assets/90754954/7bb57db1-af39-4912-b9d8-a25cb46270e7)
 
 
 **Room**
 
+![image](https://github.com/trong420/hotel-management/assets/90754954/cb112b66-d671-4a39-86b4-818ffebdf2f5)
+
+
 **Booking**
+
+![image](https://github.com/trong420/hotel-management/assets/90754954/222ff422-0dae-42d6-9321-5468c5f8ca43)
+
 
 **Dashboard**
 
+![image](https://github.com/trong420/hotel-management/assets/90754954/570e4941-17ff-4918-8bfb-ada065341cc9)
+
+
 **About**
+
+![image](https://github.com/trong420/hotel-management/assets/90754954/fd938f13-8fe2-4f58-9a90-b25d42d970b3)
 
 
 **Result**
